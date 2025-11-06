@@ -7,7 +7,7 @@
 
 :root {
   /* Colors */
-  --primary: #ff6b35;
+  --primary: #ae8625;
   --primary-dark: #d94e1f;
   --primary-light: #ff8c5f;
   --white: #ffffff;
@@ -1464,3 +1464,4 @@ section {
     padding: 30px 20px;
   }
 }
+
